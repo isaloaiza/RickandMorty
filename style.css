@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #2d3436;
+  }
+  
+  #characters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .character-card {
+    border: 1px solid #b2bec3;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    max-width: 200px;
+
+  }
+  
+  .character-image {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .character-name {
+    font-weight: bold;
+    margin-top: 5px;
+  }
+  
+  .character-status {
+    margin-top: 5px;
+  }
+  
+ 
+  
